@@ -1,0 +1,82 @@
+#Sidebar{
+    width:100px;
+    float:left;
+    height:280px;
+    text-align:center;
+    line-height:280px;
+    font-size:15px;
+    color:#ffffff;
+    font-weight:bold;
+    background-color:#cecece;
+    }
+    #centre-body{
+    width:850px;
+    height:1980px;
+    text-align:left;
+    line-height:280px;
+    font-size:20px;
+    font-weight:bold;
+    background-color:white;
+    float:left;
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-top: 10px;
+    }
+
+.card-heading a {
+	color: #111111;
+	font-size: 25px;
+	font-weight: 700;
+	text-transform: uppercase;
+	display: block;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+
+
+.centre__sidebar__categories ul
+ {
+	height: 225px;
+    
+
+}
+
+.centre__sidebar__categories ul li,
+.centre__sidebar__price ul li,
+.centre__sidebar__brand ul li {
+	list-style: none;
+}
+
+.centre__sidebar__categories ul li a
+{
+	color: blue;
+	font-size: 15px;
+	line-height: 32px;
+    padding: 20px;
+}
+
+.centre__sidebar__categories ul li a:hover,
+.centre__sidebar__price ul li a:hover,
+.centre__sidebar__brand ul li a:hover {
+	color:red;
+}
+.centre-body h1{
+    font-weight:bold;
+    margin:10px;
+    margin-left:-10px;
+    align:left ;
+    display: block;
+    font-size:25px;
+    color:black;
+    
+
+    
+}
+.centre-body p{
+    font-size: 20px;
+    
+}
+
+
+    
+    
